@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Project A",
+      "imageSrc": "projects/Create Next App - Google Chrome 11_6_2024 11_54_04 AM.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Next.js", "TailwindCSS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.comAsmayaseen"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/Asma Khan - Google Chrome 11_6_2024 12_03_02 PM.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Next.js14", "tailwindCSS", " TypeScript", " Framer motion"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.comAsmayaseen"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/Create Next App - Google Chrome 11_6_2024 11_59_31 AM.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "CSS", "Figma"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.comAsmayaseen"
+    }
+  ]

@@ -1,0 +1,41 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+  
+    {
+      "title": "tailwindCSS",
+      "imageSrc": "skills/tailwind.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/js.png"
+    },
+  
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "Typescript",
+      "imageSrc": "skills/ts.png"
+    },
+    {
+      "title": "Typescript",
+      "imageSrc": "skills/next.png"
+    }
+    
+  ]
